@@ -1,5 +1,5 @@
 {
-  "name": "parcel-react-antd-ts",
+  "name": "xflowchart",
   "scripts": {
     "start": "rm -rf dist && parcel index.html --no-cache",
     "build": "rm -rf dist && parcel build index.html --public-url /"
